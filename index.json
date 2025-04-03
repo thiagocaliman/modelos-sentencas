@@ -1,0 +1,70 @@
+{
+  "ultima_atualizacao": "2025-04-03",
+  "total_modelos": 7,
+  "modelos": [
+    {
+      "id": "doenca-ocupacional-limbo-procedente",
+      "titulo": "Doenca ocupacional limbo procedente",
+      "casos_aplicaveis": [
+        "Doença ocupacional"
+      ],
+      "descricao": "Modelo para casos de doença ocupacional.",
+      "arquivo": "DOENCA_OCUPACIONAL_LIMBO_PROCEDENTE.md"
+    },
+    {
+      "id": "justa-causa-mantida-equiparacao-he-intervalo-descontos",
+      "titulo": "Justa causa mantida equiparacao he intervalo descontos",
+      "casos_aplicaveis": [
+        "Justa causa confirmada"
+      ],
+      "descricao": "Modelo para casos onde a justa causa é mantida.",
+      "arquivo": "JUSTA_CAUSA_MANTIDA_EQUIPARACAO_HE_INTERVALO_DESCONTOS.md"
+    },
+    {
+      "id": "justa-causa-revertida-he-procedente",
+      "titulo": "Justa causa revertida he procedente",
+      "casos_aplicaveis": [
+        "Reversão de justa causa"
+      ],
+      "descricao": "Modelo para casos onde há reversão da justa causa.",
+      "arquivo": "JUSTA_CAUSA_REVERTIDA_HE_PROCEDENTE.md"
+    },
+    {
+      "id": "modelo-minuta-geral",
+      "titulo": "Modelo-minuta-geral",
+      "casos_aplicaveis": [
+        "Modelo geral"
+      ],
+      "descricao": "Modelo geral para caso específico.",
+      "arquivo": "modelo-minuta-geral.md"
+    },
+    {
+      "id": "modelo-minuta-revelia",
+      "titulo": "Modelo-minuta-revelia",
+      "casos_aplicaveis": [
+        "Revelia",
+        "Confissão ficta"
+      ],
+      "descricao": "Modelo específico para casos de revelia do reclamado.",
+      "arquivo": "modelo-minuta-revelia.md"
+    },
+    {
+      "id": "rescisao-indireta-improced",
+      "titulo": "Rescisao indireta improced",
+      "casos_aplicaveis": [
+        "Pedido de rescisão indireta negado"
+      ],
+      "descricao": "Modelo para casos onde o pedido de rescisão indireta é considerado improcedente.",
+      "arquivo": "RESCISAO_INDIRETA_IMPROCED.md"
+    },
+    {
+      "id": "rescisao-indireta",
+      "titulo": "Rescisao indireta",
+      "casos_aplicaveis": [
+        "Pedido de rescisão indireta procedente"
+      ],
+      "descricao": "Modelo para casos onde o pedido de rescisão indireta é considerado procedente.",
+      "arquivo": "RESCISAO_INDIRETA.md"
+    }
+  ]
+}
